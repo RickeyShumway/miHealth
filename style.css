@@ -1,0 +1,70 @@
+body {
+}
+div {
+}
+#container {
+
+}
+#topBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h1 {
+    
+
+}
+#mi {
+    color: red;
+}
+#health {
+    color: rgb(75, 194, 127);
+}
+ul {
+    display: flex;
+}
+li {
+    display: inline;
+    padding: 0 40px;
+}
+a {
+    text-decoration: none;
+}
+#content {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(228, 228, 228);
+    border: 1px solid black;
+    
+}
+.allpics {
+    border: 5px solid black;
+}
+.boxe {
+    max-width: 22%;
+}
+#words {
+    border: 2px;
+    
+}
+h2 {
+
+}
+p {
+
+}
+button {
+
+}
+.picture {
+
+}
+#rice {
+    background-image: url(images/apple-breakfast-quinoa-7.jpg);
+}
+#pasta {
+    background-image: url(images/pasta-salad-recipe-for-lunch.jpg);
+}
+#shrimp {
+    background-image: url(images/shrimp.jpg);
+}
